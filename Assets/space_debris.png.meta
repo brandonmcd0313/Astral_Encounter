@@ -1,0 +1,2437 @@
+fileFormatVersion: 2
+guid: 4239add959dac9e48866bf9513d4bd39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5580327817529473243
+    second: space_debris_0
+  - first:
+      213: 6121485097697723019
+    second: space_debris_1
+  - first:
+      213: 5337948994425606012
+    second: space_debris_2
+  - first:
+      213: -690715611569478843
+    second: space_debris_3
+  - first:
+      213: -6510306612398456841
+    second: space_debris_4
+  - first:
+      213: -7547866619108716280
+    second: space_debris_5
+  - first:
+      213: -7197127489699761013
+    second: space_debris_6
+  - first:
+      213: 5236754540997786384
+    second: space_debris_7
+  - first:
+      213: 5344060249660019466
+    second: space_debris_8
+  - first:
+      213: 984893059045478796
+    second: space_debris_9
+  - first:
+      213: 6483213560176993052
+    second: space_debris_10
+  - first:
+      213: -3821670081671352936
+    second: space_debris_11
+  - first:
+      213: 7883615826704273637
+    second: space_debris_12
+  - first:
+      213: 8278730533118636713
+    second: space_debris_13
+  - first:
+      213: -4701075622376132373
+    second: space_debris_14
+  - first:
+      213: 1487989877785408944
+    second: space_debris_15
+  - first:
+      213: 1687494452795488661
+    second: space_debris_16
+  - first:
+      213: -5507591889212991609
+    second: space_debris_17
+  - first:
+      213: -6096908640544143206
+    second: space_debris_18
+  - first:
+      213: -1912715394128097377
+    second: space_debris_19
+  - first:
+      213: -868840303944378987
+    second: space_debris_20
+  - first:
+      213: 3157506014936188342
+    second: space_debris_21
+  - first:
+      213: 159126414024216017
+    second: space_debris_22
+  - first:
+      213: -7336959071683754979
+    second: space_debris_23
+  - first:
+      213: -24759427004942008
+    second: space_debris_24
+  - first:
+      213: 6071050617277945348
+    second: space_debris_25
+  - first:
+      213: -8711641003713432251
+    second: space_debris_26
+  - first:
+      213: 8580778270663563886
+    second: space_debris_27
+  - first:
+      213: -1228870215973721604
+    second: space_debris_28
+  - first:
+      213: 3647620599714101018
+    second: space_debris_29
+  - first:
+      213: -4152785383237506966
+    second: space_debris_30
+  - first:
+      213: -7978409268335014460
+    second: space_debris_31
+  - first:
+      213: 8728127181854734922
+    second: space_debris_32
+  - first:
+      213: 4485162146329544413
+    second: space_debris_33
+  - first:
+      213: -8426745902524081864
+    second: space_debris_34
+  - first:
+      213: -6815524648781613064
+    second: space_debris_35
+  - first:
+      213: -5575191632997787280
+    second: space_debris_36
+  - first:
+      213: 1844837708917351748
+    second: space_debris_37
+  - first:
+      213: 4644716845748441920
+    second: space_debris_38
+  - first:
+      213: 2065293822303997188
+    second: space_debris_39
+  - first:
+      213: -1734738392619926217
+    second: space_debris_40
+  - first:
+      213: -6773975976157320655
+    second: space_debris_41
+  - first:
+      213: 5430961772775585139
+    second: space_debris_42
+  - first:
+      213: -3327794028237967749
+    second: space_debris_43
+  - first:
+      213: 8721434306385669578
+    second: space_debris_44
+  - first:
+      213: 532324539308792301
+    second: space_debris_45
+  - first:
+      213: 5999714677314872943
+    second: space_debris_46
+  - first:
+      213: -167183255616264672
+    second: space_debris_47
+  - first:
+      213: -5115839373118456339
+    second: space_debris_48
+  - first:
+      213: -3699686474512130817
+    second: space_debris_49
+  - first:
+      213: 2095274036174048989
+    second: space_debris_50
+  - first:
+      213: 7988168774552122189
+    second: space_debris_51
+  - first:
+      213: 3006221808974540855
+    second: space_debris_52
+  - first:
+      213: 8731732313518182942
+    second: space_debris_53
+  - first:
+      213: -2388356035840338302
+    second: space_debris_54
+  - first:
+      213: 3916312974988130025
+    second: space_debris_55
+  - first:
+      213: 5809464015830886917
+    second: space_debris_56
+  - first:
+      213: 7956039627709413445
+    second: space_debris_57
+  - first:
+      213: 5167300555627145086
+    second: space_debris_58
+  - first:
+      213: 9159339648541933250
+    second: space_debris_59
+  - first:
+      213: -8258074314322655573
+    second: space_debris_60
+  - first:
+      213: 4971995988746199498
+    second: space_debris_61
+  - first:
+      213: 8509587253751503467
+    second: space_debris_62
+  - first:
+      213: 7455728183184599941
+    second: space_debris_63
+  - first:
+      213: 5654155449748705301
+    second: space_debris_64
+  - first:
+      213: 4198299500004823923
+    second: space_debris_65
+  - first:
+      213: -3898607668296538872
+    second: space_debris_66
+  - first:
+      213: 705663626130756355
+    second: space_debris_67
+  - first:
+      213: 3422868627730299483
+    second: space_debris_68
+  - first:
+      213: -4871092855463424148
+    second: space_debris_69
+  - first:
+      213: -683483236568688455
+    second: space_debris_70
+  - first:
+      213: -6506395397952146388
+    second: space_debris_71
+  - first:
+      213: -2524667982317104371
+    second: space_debris_72
+  - first:
+      213: 2164483191423527896
+    second: space_debris_73
+  - first:
+      213: -7054135954105996281
+    second: space_debris_74
+  - first:
+      213: 6848535874947792999
+    second: space_debris_75
+  - first:
+      213: -48997372542364701
+    second: space_debris_76
+  - first:
+      213: -7295286653651136531
+    second: space_debris_77
+  - first:
+      213: 7420096103410136328
+    second: space_debris_78
+  - first:
+      213: -2987228641606992700
+    second: space_debris_79
+  - first:
+      213: -4146397466332637783
+    second: space_debris_80
+  - first:
+      213: 1204763396674335530
+    second: space_debris_81
+  - first:
+      213: 8752431599963557002
+    second: space_debris_82
+  - first:
+      213: -5346402605443997865
+    second: space_debris_83
+  - first:
+      213: -5970148623052278469
+    second: space_debris_84
+  - first:
+      213: 2383796737701417335
+    second: space_debris_85
+  - first:
+      213: -5182949910613591811
+    second: space_debris_86
+  - first:
+      213: 800275465154015522
+    second: space_debris_87
+  - first:
+      213: 7214655336692746146
+    second: space_debris_88
+  - first:
+      213: -7225047630314699441
+    second: space_debris_89
+  - first:
+      213: -9120886278527219283
+    second: space_debris_90
+  - first:
+      213: 3074480539509323755
+    second: space_debris_91
+  - first:
+      213: 2024571466336348810
+    second: space_debris_92
+  - first:
+      213: 4647836992273754730
+    second: space_debris_93
+  - first:
+      213: 7423468026300836105
+    second: space_debris_94
+  - first:
+      213: 1342078090131900373
+    second: space_debris_95
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space_debris_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527cce17a61be82b0800000000000000
+      internalID: -5580327817529473243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 561
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82ce1a6342e3f450800000000000000
+      internalID: 6121485097697723019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 561
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f44e92454341a40800000000000000
+      internalID: 5337948994425606012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 561
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543a5939fc51a66f0800000000000000
+      internalID: -690715611569478843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 561
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fffc1d01aeb6a5a0800000000000000
+      internalID: -6510306612398456841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 561
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8011ffbdc47904790800000000000000
+      internalID: -7547866619108716280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 561
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b843f3d1eaaae1c90800000000000000
+      internalID: -7197127489699761013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 561
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b36107280bca840800000000000000
+      internalID: 5236754540997786384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a035547ab7ae92a40800000000000000
+      internalID: 5344060249660019466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 510
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81572ed40b0bad00800000000000000
+      internalID: 984893059045478796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 510
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c136859226009f950800000000000000
+      internalID: 6483213560176993052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 510
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dad3d0f43b6fac0800000000000000
+      internalID: -3821670081671352936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 510
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e01b5043da386d60800000000000000
+      internalID: 7883615826704273637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 510
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a277b9ae85f3e270800000000000000
+      internalID: 8278730533118636713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 510
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0b50af0ac62ceb0800000000000000
+      internalID: -4701075622376132373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 510
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5b6cef8e666a410800000000000000
+      internalID: 1487989877785408944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599315b934f2b6710800000000000000
+      internalID: 1687494452795488661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 459
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78713a37b5a1193b0800000000000000
+      internalID: -5507591889212991609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 459
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a984b5ce4ed636ba0800000000000000
+      internalID: -6096908640544143206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 459
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fc298ab7ba475e0800000000000000
+      internalID: -1912715394128097377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 459
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5955adcc85241f3f0800000000000000
+      internalID: -868840303944378987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 459
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b54e6ccdf6b1db20800000000000000
+      internalID: 3157506014936188342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 459
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd8b4661a4553200800000000000000
+      internalID: 159126414024216017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_23
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 459
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c5b0e892ed2a90800000000000000
+      internalID: -7336959071683754979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849378cae6908aff0800000000000000
+      internalID: -24759427004942008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 408
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4069440ee54b04450800000000000000
+      internalID: 6071050617277945348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 408
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545fee2d9a80a1780800000000000000
+      internalID: -8711641003713432251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 408
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ada4fcf5c051770800000000000000
+      internalID: 8580778270663563886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 408
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf924d5ac0d22fee0800000000000000
+      internalID: -1228870215973721604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 408
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a173b590c93fe9230800000000000000
+      internalID: 3647620599714101018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 408
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68a1b342b75e56c0800000000000000
+      internalID: -4152785383237506966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_31
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 408
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd0538ba0ff64190800000000000000
+      internalID: -7978409268335014460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4af1e4ad69802970800000000000000
+      internalID: 8728127181854734922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 357
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6400c653f7e3e30800000000000000
+      internalID: 4485162146329544413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 357
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839d29b9f3f2e0b80800000000000000
+      internalID: -8426745902524081864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_35
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 357
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7f37f21746a61a0800000000000000
+      internalID: -6815524648781613064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 357
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079df689fb0f0a2b0800000000000000
+      internalID: -5575191632997787280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 357
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445a3443f1e2a9910800000000000000
+      internalID: 1844837708917351748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 357
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043db19cc59557040800000000000000
+      internalID: 4644716845748441920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_39
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 357
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0d3bf9c569ac10800000000000000
+      internalID: 2065293822303997188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d38a97f98fce7e0800000000000000
+      internalID: -1734738392619926217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 306
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aec106db00ef1a0800000000000000
+      internalID: -6773975976157320655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 306
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375b30735f6ae5b40800000000000000
+      internalID: 5430961772775585139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 306
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ea53576fc41d1d0800000000000000
+      internalID: -3327794028237967749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_44
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 306
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acde5042b42c80970800000000000000
+      internalID: 8721434306385669578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 306
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de959be1952336700800000000000000
+      internalID: 532324539308792301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 306
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66ec0f06b4434350800000000000000
+      internalID: 5999714677314872943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_47
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 306
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026699cf6bb0eadf0800000000000000
+      internalID: -167183255616264672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded315de133e009b0800000000000000
+      internalID: -5115839373118456339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 255
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc1362d0c218acc0800000000000000
+      internalID: -3699686474512130817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_50
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 255
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddec04972a8e31d10800000000000000
+      internalID: 2095274036174048989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 255
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43fb056d2dabde60800000000000000
+      internalID: 7988168774552122189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730b5ffbece38b920800000000000000
+      internalID: 3006221808974540855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e121d05c6485d2970800000000000000
+      internalID: 8731732313518182942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_54
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 255
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2869396e6dadaded0800000000000000
+      internalID: -2388356035840338302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_55
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 255
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6bb67b6e9895630800000000000000
+      internalID: 3916312974988130025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aa3071ebc5f9050800000000000000
+      internalID: 5809464015830886917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548fc8473e7896e60800000000000000
+      internalID: 7956039627709413445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 204
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77a5d15a70f5b740800000000000000
+      internalID: 5167300555627145086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_59
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 204
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce3e70d1e28c1f70800000000000000
+      internalID: 9159339648541933250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_60
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6450e0a2d656d80800000000000000
+      internalID: -8258074314322655573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_61
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 204
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac162ed4204100540800000000000000
+      internalID: 4971995988746199498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_62
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 204
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6adc058580281670800000000000000
+      internalID: 8509587253751503467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_63
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 204
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b269cc741187760800000000000000
+      internalID: 7455728183184599941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5105c1fac68977e40800000000000000
+      internalID: 5654155449748705301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373dc76d62b534a30800000000000000
+      internalID: 4198299500004823923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 153
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805229c3bfc55e9c0800000000000000
+      internalID: -3898607668296538872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_67
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303107644550bc900800000000000000
+      internalID: 705663626130756355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_68
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 153
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a71bcb1e8708f20800000000000000
+      internalID: 3422868627730299483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 153
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fc82a2bd6666cb0800000000000000
+      internalID: -4871092855463424148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_70
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 153
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8936a1e97c386f0800000000000000
+      internalID: -683483236568688455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_71
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 153
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2473d0abd3a4b5a0800000000000000
+      internalID: -6506395397952146388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03df2aa8d396fcd0800000000000000
+      internalID: -2524667982317104371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_73
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db6a13aef9c90e10800000000000000
+      internalID: 2164483191423527896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_74
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c633269bcaa1e90800000000000000
+      internalID: -7054135954105996281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_75
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 102
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76048c9d713ea0f50800000000000000
+      internalID: 6848535874947792999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_76
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 102
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e35fa6362de15ff0800000000000000
+      internalID: -48997372542364701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_77
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 102
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defc97ac07fe1ca90800000000000000
+      internalID: -7295286653651136531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_78
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 102
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805750bb71a79f660800000000000000
+      internalID: 7420096103410136328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_79
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 102
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc7422a06b3b86d0800000000000000
+      internalID: -2987228641606992700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5d9a119790576c0800000000000000
+      internalID: -4146397466332637783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_81
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23ba291ded28b010800000000000000
+      internalID: 1204763396674335530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_82
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c4bb4fa22e67970800000000000000
+      internalID: 8752431599963557002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 51
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f99442823cdc5b0800000000000000
+      internalID: -5346402605443997865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_84
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 51
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b357ea26575c52da0800000000000000
+      internalID: -5970148623052278469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_85
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 51
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7719d67c082f41120800000000000000
+      internalID: 2383796737701417335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_86
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 51
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8fb3944867218b0800000000000000
+      internalID: -5182949910613591811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_87
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 51
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22137f6ab462b1b00800000000000000
+      internalID: 800275465154015522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a78278cdca9f1460800000000000000
+      internalID: 7214655336692746146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_89
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4580ddc5797bbb90800000000000000
+      internalID: -7225047630314699441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_90
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da986a3114a1c6180800000000000000
+      internalID: -9120886278527219283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_91
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7fd4ae2cfbaaa20800000000000000
+      internalID: 3074480539509323755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_92
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aae51a509b81c10800000000000000
+      internalID: 2024571466336348810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_93
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aa5628e1f608040800000000000000
+      internalID: 4647836992273754730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_94
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909a125b6d4750760800000000000000
+      internalID: 7423468026300836105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_debris_95
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7852f89e400a210800000000000000
+      internalID: 1342078090131900373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
