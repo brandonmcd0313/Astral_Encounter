@@ -8,10 +8,14 @@ public class AsteroidManager : MonoBehaviour
     [SerializeField] GameObject player;
     [SerializeField] GameObject asteroid;
     [SerializeField] Sprite[] astSprites;
-    public float AsteroidSpawnRate;
+    public float initAsteroidSpawnRate;
+    public static float AsteroidSpawnRate = 0;
     // Start is called before the first frame update
     void Start()
     {
+        if(AsteroidSpawnRate == 0) {
+            AsteroidSpawnRate = initAsteroidSpawnRate;
+        }
         StartCoroutine(spawnRepeating());
     }
 
@@ -54,5 +58,10 @@ public class AsteroidManager : MonoBehaviour
         aster.transform.position = player.transform.position + planetDirection * Random.Range(20f, 35f);
         aster.transform.localPosition = new Vector3(aster.transform.localPosition.x, aster.transform.localPosition.y, 0);
 
+    }
+
+    public static void setAstRate(float mult)
+    {
+        AsteroidSpawnRate *= mult;
     }
 }

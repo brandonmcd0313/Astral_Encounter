@@ -91,7 +91,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemName: Offbrand Oil
   itemDesc: Grease up those rusty boosters and get going quicker!
-  itemAbility: Decreases Time needed to accelerate!
+  itemAbility: Decreases Time needed to accelerate by 25%
   itemNum: 0
 --- !u!114 &-8013211447757506787
 MonoBehaviour:

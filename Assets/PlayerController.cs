@@ -1,16 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField] float thrustForce;
+    [SerializeField] float initthrustForce;
     [SerializeField] Sprite active, idle;
-    [SerializeField] float rotationSpeed;
+    [SerializeField] float initrotationSpeed;
     Rigidbody2D rb; SpriteRenderer sr;
     float currentTime = 0;
     [Tooltip("Time in seconds from 0 to fullThrust")]
-    [SerializeField] float acelTime;
+    [SerializeField] float initacelTime;
 
     //gun stuff
     Camera Acamera;
@@ -19,11 +20,31 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float bulletSpeed;
     [SerializeField] float bulletCOoldown;
     [SerializeField] Vector2 offset;
-
     private List<GameObject> activeBullets = new List<GameObject>();
+
+    //static variables. take scene set vars and lock them
+    private static float thrustForce = 0;
+    private static float acelTime = 0;
+    private static float rotationSpeed = 0;
+
     // Start is called before the first frame update
     void Start()
     {
+        //if static vars unset, set them
+        if(thrustForce == 0)
+        {
+            thrustForce = initthrustForce;
+
+        }
+        if(acelTime== 0)
+        {
+            acelTime = initacelTime;
+        }
+        if(rotationSpeed == 0)
+        {
+            rotationSpeed = initrotationSpeed;
+        }
+
         Acamera = GameObject.Find("Main Camera").GetComponent<Camera>();
         Physics2D.IgnoreCollision(bulletPrefab.GetComponent<Collider2D>(), GetComponent<Collider2D>());
         sr = GetComponent<SpriteRenderer>();
@@ -32,6 +53,7 @@ public class PlayerController : MonoBehaviour
         InvokeRepeating("killBullets", 0f, 1.25f);
     }
 
+    
     // Update is called once per frame
     void Update()
     {
@@ -114,13 +136,28 @@ public class PlayerController : MonoBehaviour
 
     }
 
-
-
     IEnumerator GunCooldown()
     {
         canFire = false;
         yield return new WaitForSeconds(bulletCOoldown);
         canFire = true;
+    }
+
+    //setters for powerups
+    public static void setAceleration(float multiplier)
+    {
+        acelTime *= multiplier;
+    }
+    public static void setThrust(float multiplier)
+    {
+        //max thrustForce at 1000 so exponentaily work up to that
+       float maxThrust = 1000;
+        float currentThrust = thrustForce;
+        float percent = currentThrust / maxThrust;
+        float increase = multiplier * (1 - percent);
+        thrustForce += increase;
+        thrustForce = Mathf.Min(thrustForce, maxThrust);
+
     }
 }
 

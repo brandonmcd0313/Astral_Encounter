@@ -29,7 +29,7 @@ RectTransform:
   m_GameObject: {fileID: 4266477627173324543}
   m_LocalRotation: {x: 0, y: 0, z: 0.332408, w: 0.94313574}
   m_LocalPosition: {x: 0, y: 0, z: -3}
-  m_LocalScale: {x: 2.33, y: 1.92, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -37,7 +37,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -360, y: -190}
-  m_SizeDelta: {x: 244.89, y: 240.48}
+  m_SizeDelta: {x: 403.21, y: 405.24}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4266477627173324515
 CanvasRenderer:
@@ -91,7 +91,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemName: ShinyBlast200
   itemDesc: Ugrade those thrusters and get a mega speed boost!
-  itemAbility: Increases max speed by 25%
+  itemAbility: Increases your max speed!
   itemNum: 1
 --- !u!114 &8737946382884721809
 MonoBehaviour:

@@ -9,8 +9,8 @@ public class Asteroid : MonoBehaviour
     Camera Acamera;
     [SerializeField] float speed;
     Vector3 direction;
-    static int astDamage = -20;
-    static int astValue = 50;
+  static int astDamage = -20;
+   static int astValue = 10;
     // Start is called before the first frame update
     void Start()
     {
@@ -109,4 +109,23 @@ public class Asteroid : MonoBehaviour
         //no longer contained in cam space, destory this object
         Destroy(gameObject);
     }
+
+    //setters
+
+    public static void setDamage(float mult)
+    {
+        float hold = astDamage;
+        hold *= mult;
+        astDamage = (int)hold;
+    }
+
+    public static void setValue(float mult) 
+    {
+        float hold = astValue;
+        hold *= mult;
+        astValue = (int)hold;
+    }
+
+   
+
 }

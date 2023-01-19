@@ -1,6 +1,8 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
+
 public class HoverTip : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
     [SerializeField] string itemName;
@@ -53,20 +55,30 @@ public class HoverTip : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
         switch (itemNum)
         {
             case 0: //decrease acelTime
+                PlayerController.setAceleration(0.75f); //decrease by 25%
                 return;
             case 1: //increase max speed
+                PlayerController.setThrust(250);
                 return;
             case 2: //decrease asteroid damage / inc asteroid points
+                Asteroid.setDamage(0.90f);
+                Asteroid.setValue(0.10f);
                 return;
-            case 3: //decrease asteroid spawn rate
+            case 3: //decrease asteroid spawn rate'
+                AsteroidManager.setAstRate(0.75f);
                 return;
             case 4: //add min to timer
                 return;
             case 5: //pause timer for one min
                 return;
             case 6: //point buff 0 to 1000
+                int val = Random.Range(0, 100);
+                ScoreManager.score += val * 10;
                 return;
 
         }
+
+        //send back to main scene
+        SceneManager.LoadScene(0); //fix after i add the home screen
     }
 }
