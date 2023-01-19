@@ -94,6 +94,7 @@ public class Generation : MonoBehaviour
                 Instantiate(previous, newPos, randRot);
             }
         }
+        randRot.z = 90 * Random.Range(1, 100);
         //left is 2 and 3
         if (quadrant == 2 || quadrant == 3)
         {
@@ -104,6 +105,7 @@ public class Generation : MonoBehaviour
                 Instantiate(previous, newPos, randRot);
             }
         }
+        randRot.z = 90 * Random.Range(1, 100);
         //down is 3 and 4
         if (quadrant == 3 || quadrant == 4)
         {
@@ -114,6 +116,7 @@ public class Generation : MonoBehaviour
                 Instantiate(previous, newPos, randRot);
             }
         }
+        randRot.z = 90 * Random.Range(1, 100);
         //right is 1 and 4
         if (quadrant == 1 || quadrant == 4)
         {
@@ -123,6 +126,55 @@ public class Generation : MonoBehaviour
                 check = false;
                 Instantiate(previous, newPos, randRot);
             }
+        }
+        randRot.z = 90 * Random.Range(1, 100);
+        //corners!
+        switch (quadrant)
+        {
+            case 1:
+                {
+                    //top right
+                    Vector3 newPos = new Vector3(refrence.x + 60, refrence.y + 60, 0);
+                    if (!BackgroundExistsAtPosition(newPos))
+                    {
+                        check = false;
+                        Instantiate(previous, newPos, randRot);
+                    }
+                    return;
+                }
+            case 2:
+                {
+                    //top left
+                    Vector3 newPos = new Vector3(refrence.x - 60, refrence.y + 60, 0);
+                    if (!BackgroundExistsAtPosition(newPos))
+                    {
+                        check = false;
+                        Instantiate(previous, newPos, randRot);
+                    }
+                    return;
+                }
+                case 3:
+                {
+                    //bottom left
+                    Vector3 newPos = new Vector3(refrence.x - 60, refrence.y - 60, 0);
+                    if (!BackgroundExistsAtPosition(newPos))
+                    {
+                        check = false;
+                        Instantiate(previous, newPos, randRot);
+                    }
+                    return;
+                }
+                case 4:
+                {
+                    //bottom right
+                    Vector3 newPos = new Vector3(refrence.x + 60, refrence.y - 60, 0);
+                    if (!BackgroundExistsAtPosition(newPos))
+                    {
+                        check = false;
+                        Instantiate(previous, newPos, randRot);
+                    }
+                    return;
+                }
         }
         if (check) { return; }
         //10% of a new planet spawning
@@ -302,14 +354,16 @@ return false;
             // Get the direction that the player is facing
             Vector3 playerDirection = player.transform.up;
 
-            // Generate a random angle between -60 and 60 degrees
-            float angle = Random.Range(-60f, 60f);
+            // Generate a random angle between -360 and 360 degrees
+            float angle = Random.Range(-360f, 360f);
 
             // Rotate the player direction by the random angle
             Vector3 planetDirection = Quaternion.Euler(0, angle, 0) * playerDirection;
 
             // Set the position of the planet to be 30-100 units in the direction the player is facing
-            planet.transform.position = player.transform.position + planetDirection * Random.Range(30f, 100f);
+           
+
+            planet.transform.position = player.transform.position + planetDirection * Random.Range(100f, 250f);
             planet.transform.localPosition = new Vector3(planet.transform.localPosition.x, planet.transform.localPosition.y, 0);
 
             // Create a BoxCollider2D for the 50x50 area

@@ -21,6 +21,7 @@ public class Compass : MonoBehaviour
         randomY *= Mathf.Sign(Random.Range(-1, 1));
         GameObject sample = Instantiate(new GameObject(), new Vector3(randomX, randomY, 0), Quaternion.identity);
         nearestPlanet = sample.GetComponent<Transform>();
+        InvokeRepeating("setNearestPlanet", 0.2f, 1.75f);
     }
 
     // Update is called once per frame

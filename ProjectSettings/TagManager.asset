@@ -6,14 +6,15 @@ TagManager:
   tags:
   - Background
   - Planet
+  - Bullet
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
+  - Bullet
   - 
   - 
   - 
@@ -54,4 +55,7 @@ TagManager:
     locked: 0
   - name: UI
     uniqueID: 525615589
+    locked: 0
+  - name: 
+    uniqueID: 2013333907
     locked: 0
